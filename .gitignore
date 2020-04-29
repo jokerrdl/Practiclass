@@ -1,3 +1,4 @@
 vendor/
-*.lock
-*.phar
+composer.json
+composer.phar
+composer.lock
